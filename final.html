@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD App</title>
+   
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>YOUR TASK MANAGER</h1>
+        <div id="form-container">
+            <input type="text" id="id" placeholder="ID" disabled>
+            <input type="text" id="summary" placeholder="Summary">
+            <input type="text" id="description" placeholder="Description">
+            <input type="text" id="location" placeholder="Location">
+            <input type="datetime-local" id="startTime">
+            <input type="datetime-local" id="endTime">
+            <button onclick="addItem()">Add</button>
+        </div>
+
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Summary</th>
+                    <th>Description</th>
+                    <th>Location</th>
+                    <th>Start Time</th>
+                    <th>End Time</th>
+                </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+    </div>
+
+   
+    
+</body>
+
+</html>

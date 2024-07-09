@@ -16,3 +16,8 @@ ___________________________________________
 ## EVENTS RECORDS IN GOOGLE CALAENDER WITH THE HELP OF API
 
 ![image](https://github.com/bosesupriyo/TASK-MANAGEMENT-WEB-APPLICATION/assets/124809398/909ee827-a96a-464f-a498-180d850599f7)
+
+## NOTIFICATION ON USER PHONE
+
+![WhatsApp Image 2024-07-09 at 12 28 26_7de49214](https://github.com/bosesupriyo/TASK-MANAGEMENT-WEB-APPLICATION/assets/124809398/56e08b51-480e-4bdd-8723-285254808591)
+

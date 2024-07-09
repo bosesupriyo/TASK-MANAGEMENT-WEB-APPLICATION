@@ -20,6 +20,7 @@ ___________________________________________
 
 ## NOTIFICATION ON USER PHONE
 
-![WhatsApp Image 2024-07-09 at 12 28 26_667ba571](https://github.com/bosesupriyo/TASK-MANAGEMENT-WEB-APPLICATION/assets/124809398/512e8371-b2d4-44e1-9046-8a40aa87f009)
+![notification](https://github.com/bosesupriyo/TASK-MANAGEMENT-WEB-APPLICATION/assets/124809398/63908c30-b9fb-497f-9d31-9ceb3750a557)
+
 
 

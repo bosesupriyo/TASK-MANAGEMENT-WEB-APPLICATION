@@ -13,10 +13,13 @@ ___________________________________________
 ## OUTPUT
 
 ![image](https://github.com/bosesupriyo/TASK-MANAGEMENT-WEB-APPLICATION/assets/124809398/3ddf20d8-2fb0-48c0-bb57-5cafcc46ec8a)
+___________________________________________________
 
 ## EVENTS RECORDS IN GOOGLE CALAENDER WITH THE HELP OF API
 
 ![image](https://github.com/bosesupriyo/TASK-MANAGEMENT-WEB-APPLICATION/assets/124809398/909ee827-a96a-464f-a498-180d850599f7)
+
+________________________________________________________________________
 
 ## NOTIFICATION ON USER PHONE
 
